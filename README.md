@@ -12,8 +12,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vincentmacode)](https://git.io/streak-stats)
 
 # Scrimba Courses I've Completed
-
-
 ![Static Badge](https://img.shields.io/badge/Learn-HTML%20%26_CSS-blue)
 ![Static Badge](https://img.shields.io/badge/Command_Line-Basics-orange)
 ![Static Badge](https://img.shields.io/badge/Fullstack_Developer%20Path-34%25-brightgreen)
@@ -21,7 +19,6 @@
 
 
 ## 🚀 Learning to code?
-
 <a href="https://scrimba.com/?via=u42e212c">
 <img alt="Static Badge" src="https://img.shields.io/badge/Build%20projects%20like%20mine%20with-Scrimba-blue">
 </a>
@@ -29,20 +26,22 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Get%2020%25%20DISCOUNT-brightgreen">
 </a>
 
+
+
 # 💬 Let's Connect!
 Feel free to reach out if you want to collaborate on a project, talk about web & software development, or just chat about code!
 
-![](https://komarev.com/ghpvc/?username=vincentmacode&color=green)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FVincentMadev)
+<a href="https://x.com/VincentMadev">
+    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FVincentMadev">
+</a>
 <a href="https://www.linkedin.com/in/vincentmadev/">
-  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue">
 </a>
 <a href="https://app.netlify.com/teams/vincentmacode/projects">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Netlify-00AD9F">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Netlify-00AD9F">
 </a>
 
-
-
+![](https://komarev.com/ghpvc/?username=vincentmacode&color=green)
 
 
 
