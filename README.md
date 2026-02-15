@@ -18,11 +18,15 @@
 ![Static Badge](https://img.shields.io/badge/Command_Line-Basics-orange)
 ![Static Badge](https://img.shields.io/badge/Fullstack_Developer%20Path-34%25-brightgreen)
 
+
+
+## 🚀 Learning to code?
+
 <a href="https://scrimba.com/?via=u42e212c">
-<img alt="Static Badge" src="https://img.shields.io/badge/Learn%20to%20build%20projects%20like%20me-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Build%20projects%20like%20mine%20with-Scrimba-blue">
 </a>
 <a href="https://scrimba.com/?via=u42e212c">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Get%2020%25%20Discount%20with%20Scrimba-brightgreen">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Get%2020%25%20DISCOUNT-brightgreen">
 </a>
 
 # 💬 Let's Connect!
