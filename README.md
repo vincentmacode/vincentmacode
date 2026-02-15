@@ -19,10 +19,10 @@
 ![Static Badge](https://img.shields.io/badge/Fullstack_Developer%20Path-34%25-brightgreen)
 
 <a href="https://scrimba.com/?via=u42e212c">
-<img alt="Static Badge" src="https://img.shields.io/badge/Learn%20to%20build%20projects%20like%20this%20with%20Scrimba-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Learn%20to%20build%20projects%20like%20this-blue">
 </a>
 <a href="https://scrimba.com/?via=u42e212c">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Get%2020%25%20Discount-brightgreen">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Get%2020%25%20Discount%20with%20Scrimba-brightgreen">
 </a>
 
 
