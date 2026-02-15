@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, Universe! I'm Vincent 👋
 🧠 What I build: Recruiter-ready projects, web applications & Google Chrome extensions
 
 🎨 What I care about: Accessibility, performance & fun
