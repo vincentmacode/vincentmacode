@@ -25,6 +25,18 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Get%2020%25%20Discount%20with%20Scrimba-brightgreen">
 </a>
 
+# 💬 Let's Connect!
+Feel free to reach out if you want to collaborate on a project, talk about web & software development, or just chat about code!
+
+![](https://komarev.com/ghpvc/?username=vincentmacode&color=green)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FVincentMadev)
+<a href="https://www.linkedin.com/in/vincentmadev/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue">
+</a>
+<a href="https://app.netlify.com/teams/vincentmacode/projects">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Netlify-00AD9F">
+</a>
+
 
 
 
