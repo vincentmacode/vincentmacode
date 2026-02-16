@@ -18,7 +18,7 @@
 
 
 
-# 🚀 Learning to code?
+## 🚀 Learning to code?
 <a href="https://scrimba.com/?via=u42e212c">
 <img alt="Static Badge" src="https://img.shields.io/badge/Build%20projects%20like%20mine%20with-Scrimba-blue">
 </a>
