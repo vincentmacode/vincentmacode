@@ -20,11 +20,16 @@
 
 ## 🚀 Learning to code?
 <a href="https://scrimba.com/?via=u42e212c">
-<img alt="Static Badge" src="https://img.shields.io/badge/Build%20projects%20like%20mine%20with-Scrimba-blue">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Build%20projects%20like%20mine%20with-Scrimba-blue">
 </a>
 <a href="https://scrimba.com/?via=u42e212c">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Get%2020%25%20DISCOUNT-brightgreen">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Get%2020%25%20OFF-brightgreen">
 </a>
+<div>
+    <a href="https://scrimba.com/?via=u42e212c">
+          <img alt="Static Badge" src="https://camo.githubusercontent.com/f58b07cdc76d8fdf25f960698b1c38c502b1aaeaf77afa809c0dd62f3bd741bb/68747470733a2f2f692e6962622e636f2f4844337837334e422f736372696d6261737361646f72732d6374612e706e67">
+    </a>
+</div>
 
 
 
@@ -42,6 +47,8 @@ Feel free to reach out if you want to collaborate on a project, talk about web &
 </a>
 
 ![](https://komarev.com/ghpvc/?username=vincentmacode&color=green)
+
+
 
 
 
