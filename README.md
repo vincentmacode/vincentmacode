@@ -46,9 +46,9 @@
 
 
 # Scrimba Courses I've Completed
-![Static Badge](https://img.shields.io/badge/Learn-HTML%20%26_CSS-blue)
-![Static Badge](https://img.shields.io/badge/Command_Line-Basics-orange)
-![Static Badge](https://img.shields.io/badge/Fullstack_Developer%20Path-34%25-brightgreen)
+[![Static Badge](https://img.shields.io/badge/Learn-HTML%20%26_CSS-blue)](https://scrimba.com/u42e212c:certs;cert24zAwPPowS2h3LXyu4oQbbWSFvL7STrHQLqXn)
+[![Static Badge](https://img.shields.io/badge/Command_Line-Basics-orange)](https://scrimba.com/u42e212c:certs;cert2ffentAFNBTh3sZKj8LVJrTeE569n52h2EHH4Z8peKDtSv)
+[![Static Badge](https://img.shields.io/badge/Fullstack_Developer%20Path-34%25-brightgreen)](https://scrimba.com/fullstack-path-c0fullstack?via=https://scrimba.com/?via=u42e212c)
 
 
 
