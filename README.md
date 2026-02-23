@@ -41,29 +41,31 @@
     </a>
 </div>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vincentmacode)](https://git.io/streak-stats)
 
 
-# Scrimba Courses I've Completed
+## Scrimba Courses I've Completed
 [![Static Badge](https://img.shields.io/badge/Learn-HTML%20%26_CSS-blue)](https://scrimba.com/u42e212c:certs;cert24zAwPPowS2h3LXyu4oQbbWSFvL7STrHQLqXn)
 [![Static Badge](https://img.shields.io/badge/Command_Line-Basics-orange)](https://scrimba.com/u42e212c:certs;cert2ffentAFNBTh3sZKj8LVJrTeE569n52h2EHH4Z8peKDtSv)
 [![Static Badge](https://img.shields.io/badge/Learn-JavaScript-yellow)](https://scrimba.com/u42e212c:certs;cert24zAwPPowS2h3LXyu4oQbbXvZ3cecCcZRaEWY)
 [![Static Badge](https://img.shields.io/badge/Fullstack_Developer%20Path-34%25-brightgreen)](https://scrimba.com/fullstack-path-c0fullstack?via=https://scrimba.com/?via=u42e212c)
 
 
-
-
-
-
-
-# 💬 Let's Connect!
+## 💬 Let's Connect!
 Feel free to reach out if you want to collaborate on a project, talk about web & software development, or just chat about code!
 
 
 ![](https://komarev.com/ghpvc/?username=vincentmacode&color=green)
 ![GitHub User's stars](https://img.shields.io/github/stars/vincentmacode)
 
+## 📚 Book Corner
+<b>Currently reading:</b>
+<ul>
+    <li>
+    <b>Learning How to Learn</b> by Barbara Oakley ~ How to Succeed in School Without Spending All Your Time Studying
+    </li>
+</ul>
 
 
 
