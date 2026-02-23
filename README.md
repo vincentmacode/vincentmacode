@@ -63,7 +63,10 @@ Feel free to reach out if you want to collaborate on a project, talk about web &
 <b>Currently reading:</b>
 <ul>
     <li>
-    <b>Learning How to Learn</b> by Barbara Oakley ~ How to Succeed in School Without Spending All Your Time Studying
+        <b>Learning How to Learn</b> by Barbara Oakley ~ How to Succeed in School Without Spending All Your Time Studying
+    </li>
+    <li>
+        <b>Energy Forever</b> by Sid Kirchheimer & Gale Maleskey ~ Quick and Easy Tips And Techniques to Beat Fatigue And Turbocharge Your Life 
     </li>
 </ul>
 
