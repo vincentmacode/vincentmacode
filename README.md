@@ -68,6 +68,9 @@ Feel free to reach out if you want to collaborate on a project, talk about web &
     <li>
         <b>Energy Forever</b> by Sid Kirchheimer, Gale Maleskey & The Editors of Prevention Magazine Health Books ~ More Than 1000 Quick and Easy Tips And Techniques to Beat Fatigue And Turbocharge Your Life 
     </li>
+    <li>
+        <b>Ace The Data Science Interview</b> by Kevin Huo, & Nick Singh ~ 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street
+    </li>
 </ul>
 
 
