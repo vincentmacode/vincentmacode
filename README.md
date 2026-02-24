@@ -66,7 +66,7 @@ Feel free to reach out if you want to collaborate on a project, talk about web &
         <b>Learning How to Learn</b> by Barbara Oakley ~ How to Succeed in School Without Spending All Your Time Studying
     </li>
     <li>
-        <b>Energy Forever</b> by Sid Kirchheimer, Gale Maleskey & The Editors of Prevention Magazine Health Books ~ Quick and Easy Tips And Techniques to Beat Fatigue And Turbocharge Your Life 
+        <b>Energy Forever</b> by Sid Kirchheimer, Gale Maleskey & The Editors of Prevention Magazine Health Books ~ More Than 1000 Quick and Easy Tips And Techniques to Beat Fatigue And Turbocharge Your Life 
     </li>
 </ul>
 
