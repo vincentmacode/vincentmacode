@@ -5,7 +5,7 @@
 
 🧩 Tech I'm using: HTML, CSS, JavaScript
 
-🚀 Fun fact: Completed the 100 Days Of Code challenge
+🚀 Fun fact: Completed a 100 Days Of Code challenge
 
 ## 🛠️ My Toolkit
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
