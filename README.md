@@ -30,10 +30,16 @@
 [![Static Badge](https://img.shields.io/badge/My%20Scrimba%20Profile-%23635BFF)](https://scrimba.com/u42e212c:certs?via=https://scrimba.com/?via=u42e212c)
 [![Static Badge](https://img.shields.io/badge/I%20Built%20This%20on%20Scrimba-%2300AD9F)](https://chloes-birthday.netlify.app/)
 [![Static Badge](https://img.shields.io/badge/My%20Favourite%20Scrimba%20Course-%23%2300B453)](https://scrimba.com/learn-javascript-c0v?via=https://scrimba.com/?via=u42e212c)
-## 🚀 Learning to code?
-[![Static Badge](https://img.shields.io/badge/Built%20Projects%20Like%20Mine%20with%20Scrimba-%234285F4)](https://scrimba.com/?via=u42e212c)
-[![Static Badge](https://img.shields.io/badge/Get%2020%25%20OFF%20PRO-brightgreen)](https://scrimba.com/?via=u42e212c)
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vincentmacode)](https://git.io/streak-stats)
 
+
+## Courses I'm Taking
+[![Static Badge](https://img.shields.io/badge/Fullstack_Developer%20Path-Scrimba-brightgreen)](https://scrimba.com/fullstack-path-c0fullstack?via=https://scrimba.com/?via=u42e212c)
+![Static Badge](https://img.shields.io/badge/CS50%20-HarvardX-red)
+## 🚀 Learning to code?
+[![Static Badge](https://img.shields.io/badge/Build%20Projects%20Like%20Mine%20with%20Scrimba-%234285F4)](https://scrimba.com/?via=u42e212c)
+[![Static Badge](https://img.shields.io/badge/Get%2020%25%20OFF%20PRO-brightgreen)](https://scrimba.com/?via=u42e212c)
 
 <div>
     <a href="https://scrimba.com/?via=u42e212c">
@@ -41,15 +47,10 @@
     </a>
 </div>
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vincentmacode)](https://git.io/streak-stats)
-
-
 ## Scrimba Courses I've Completed
 [![Static Badge](https://img.shields.io/badge/Learn-HTML%20%26_CSS-blue)](https://scrimba.com/u42e212c:certs;cert24zAwPPowS2h3LXyu4oQbbWSFvL7STrHQLqXn)
 [![Static Badge](https://img.shields.io/badge/Command_Line-Basics-orange)](https://scrimba.com/u42e212c:certs;cert2ffentAFNBTh3sZKj8LVJrTeE569n52h2EHH4Z8peKDtSv)
 [![Static Badge](https://img.shields.io/badge/Learn-JavaScript-yellow)](https://scrimba.com/u42e212c:certs;cert24zAwPPowS2h3LXyu4oQbbXvZ3cecCcZRaEWY)
-[![Static Badge](https://img.shields.io/badge/Fullstack_Developer%20Path-34%25-brightgreen)](https://scrimba.com/fullstack-path-c0fullstack?via=https://scrimba.com/?via=u42e212c)
 
 
 ## 💬 Let's Connect!
@@ -72,11 +73,6 @@ Feel free to reach out if you want to collaborate on a project, talk about web &
         <b>Ace The Data Science Interview</b> by Kevin Huo, & Nick Singh ~ 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street
     </li>
 </ul>
-
-
-
-
-
 
 
 
