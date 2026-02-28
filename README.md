@@ -30,13 +30,15 @@
 [![Static Badge](https://img.shields.io/badge/My%20Scrimba%20Profile-%23635BFF)](https://scrimba.com/u42e212c:certs?via=https://scrimba.com/?via=u42e212c)
 [![Static Badge](https://img.shields.io/badge/I%20Built%20This%20on%20Scrimba-%2300AD9F)](https://chloes-birthday.netlify.app/)
 [![Static Badge](https://img.shields.io/badge/My%20Favourite%20Scrimba%20Course-%23%2300B453)](https://scrimba.com/learn-javascript-c0v?via=https://scrimba.com/?via=u42e212c)
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vincentmacode)](https://git.io/streak-stats)
-
 
 ## Courses I'm Taking
 [![Static Badge](https://img.shields.io/badge/Fullstack_Developer%20Path-Scrimba-brightgreen)](https://scrimba.com/fullstack-path-c0fullstack?via=https://scrimba.com/?via=u42e212c)
 ![Static Badge](https://img.shields.io/badge/CS50%20-HarvardX-red)
+
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vincentmacode)](https://git.io/streak-stats)
+
+
 ## 🚀 Learning to code?
 [![Static Badge](https://img.shields.io/badge/Build%20Projects%20Like%20Mine%20with%20Scrimba-%234285F4)](https://scrimba.com/?via=u42e212c)
 [![Static Badge](https://img.shields.io/badge/Get%2020%25%20OFF%20PRO-brightgreen)](https://scrimba.com/?via=u42e212c)
