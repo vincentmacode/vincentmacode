@@ -42,14 +42,22 @@
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vincentmacode)](https://git.io/streak-stats)
 
-# Projects
+## Projects
 
 | | |
 |---|---|
 | <br>**[Calculator Extension](https://github.com/vincentmacode/calculator-extension)** <img src="https://img.icons8.com/?size=96&id=kI89qXDv4f5O&format=png" alt="Icon" width="18" /><br><br>Peppy Google Chrome extension to boost productivity<br><br><sub>Tech Stack - HTML, CSS, JavaScript</sub><br><br> | <br>**[Blackjack Game](https://blackjack-rm.netlify.app/)** <img src="https://img.icons8.com/?size=120&id=4564MUHGIIbe&format=png" alt="Icon" width="18" /><br><br>A sleek Blackjack Game to cure boredom<br><br><sub>Tech Stack - HTML, CSS, JavaScript</sub><br><br> |
 | | |
 
-## 🚀 Learning to code?
+## 🚀 Portfolio
+<p align="left">
+  <a href="https://vincentmadev.netlify.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+
+## Learning to code?
 [![Static Badge](https://img.shields.io/badge/Build%20Projects%20Like%20Mine%20with%20Scrimba-%234285F4)](https://scrimba.com/?via=u42e212c)
 [![Static Badge](https://img.shields.io/badge/Get%2020%25%20OFF%20PRO-brightgreen)](https://scrimba.com/?via=u42e212c)
 
