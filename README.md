@@ -83,7 +83,7 @@ Feel free to reach out if you want to collaborate on a project, talk about web &
 <b>Currently reading:</b>
 <ul>
     <li>
-        <b>Learning How to Learn</b> by Barbara Oakley ~ How to Succeed in School Without Spending All Your Time Studying
+        <b>The Middle Cyclist</b> by Phil Cavell ~ The Road Map For The +40 Rider Who Wants to Train Hard, Ride Fast and Stay Healthy 
     </li>
     <li>
         <b>Energy Forever</b> by Sid Kirchheimer, Gale Maleskey & The Editors of Prevention Magazine Health Books ~ More Than 1000 Quick and Easy Tips And Techniques to Beat Fatigue And Turbocharge Your Life 
