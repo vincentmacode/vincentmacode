@@ -100,6 +100,7 @@ Feel free to reach out if you want to collaborate on a project, talk about web &
     </li>
 </ul>
 
+View my [Reading Journal](https://github.com/vincentmacode/reading-journal-/blob/main/Reading-Journal.md)
 
 
 <!--
