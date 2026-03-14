@@ -64,8 +64,7 @@
 
 
 ## Learning to code?
-[![Static Badge](https://img.shields.io/badge/Build%20Projects%20Like%20Mine%20with%20Scrimba-%234285F4)](https://scrimba.com/?via=u42e212c)
-[![Static Badge](https://img.shields.io/badge/Get%2020%25%20OFF%20PRO-brightgreen)](https://scrimba.com/?via=u42e212c)
+
 
 <div>
     <a href="https://scrimba.com/?via=u42e212c">
