@@ -84,7 +84,7 @@ Feel free to reach out if you want to collaborate on a project, talk about web &
 
 
 ![](https://komarev.com/ghpvc/?username=vincentmacode&color=green)
-![GitHub User's stars](https://img.shields.io/github/stars/vincentmacode)
+
 
 ## 📚 Book Corner
 <b>Currently reading:</b>
