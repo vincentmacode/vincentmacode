@@ -3,7 +3,7 @@
 
 🎨 What I care about: Accessibility, performance & fun
 
-🧩 Tech I'm using: HTML, CSS, JavaScript
+🧩 Tech I'm using: Node.js, JavaScript, HTML/CSS
 
 🚀 Fun fact: Completed 100 Days Of Code challenge
 
