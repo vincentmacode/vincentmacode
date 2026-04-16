@@ -5,7 +5,7 @@
 
 🧩 Tech I'm using: Node.js, JavaScript, HTML/CSS
 
-🚀 Fun fact: I play the drums & guitar
+🚀 Fun fact: I play the piano, drums & guitar
 
 ## 🛠️ My Toolkit
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
