@@ -3,7 +3,7 @@
 
 🎨 What I care about: Accessibility, performance & fun
 
-🧩 Tech I'm using: Node.js, JavaScript, HTML/CSS
+🧩 Tech I'm using: Node.js, React Native, JavaScript, HTML/CSS
 
 🚀 Fun fact: I play the piano, drums & guitar
 
