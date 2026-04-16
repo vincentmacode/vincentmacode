@@ -52,6 +52,8 @@
 
 | | |
 |---|---|
+| <br>**[MVPJumpTrainer](https://github.com/vincentmacode/MVPJumpTrainer)** <img src="https://img.icons8.com/?size=96&id=kI89qXDv4f5O&format=png" alt="Icon" width="18" /><br><br>7‑Day Program Built for Athletes to Improve Vertical Jump<br><br><sub>Tech Stack - HTML, CSS, JavaScript</sub><br><br> | <br>**[Password Generator](https://github.com/vincentmacode/password-generator)** <img src="https://img.icons8.com/?size=120&id=4564MUHGIIbe&format=png" alt="Icon" width="18" /><br><br>Beautiful Password Generator<br><br><sub>Tech Stack - HTML, CSS, JavaScript</sub><br><br> |
+| | |
 | <br>**[Calculator Extension](https://github.com/vincentmacode/calculator-extension)** <img src="https://img.icons8.com/?size=96&id=kI89qXDv4f5O&format=png" alt="Icon" width="18" /><br><br>Peppy Google Chrome extension to boost productivity<br><br><sub>Tech Stack - HTML, CSS, JavaScript</sub><br><br> | <br>**[Blackjack Game](https://blackjack-rm.netlify.app/)** <img src="https://img.icons8.com/?size=120&id=4564MUHGIIbe&format=png" alt="Icon" width="18" /><br><br>A sleek Blackjack Game to cure boredom<br><br><sub>Tech Stack - HTML, CSS, JavaScript</sub><br><br> |
 | | |
 
