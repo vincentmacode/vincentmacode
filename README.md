@@ -60,7 +60,7 @@
 ## 🚀 Portfolio
 <p align="left">
   <a href="https://vincentmadev.netlify.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
