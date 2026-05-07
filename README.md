@@ -41,7 +41,7 @@
 ![Static Badge](https://img.shields.io/badge/CS50%20-HarvardX-red)
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vincentmacode)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vincentmacode&theme=holi)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vincentmacode&theme=holi)
 
 
 
