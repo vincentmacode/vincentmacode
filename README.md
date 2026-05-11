@@ -1,5 +1,5 @@
 ## Hello, World! I'm Vincent 👋
-🧠 What I build: iOS applications, recruiter-ready projects, static websites, web apps & Google Chrome extensions
+🧠 What I build: iOS applications, web apps & fun web projects
 
 🎨 What I care about: Accessibility, performance & fun
 
