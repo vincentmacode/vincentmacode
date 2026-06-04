@@ -92,9 +92,6 @@ Feel free to reach out if you want to collaborate on a project, talk about web &
     <li>
         <b>The Middle Cyclist</b> by Phil Cavell ~ The Road Map For The +40 Rider Who Wants to Train Hard, Ride Fast and Stay Healthy 
     </li>
-    <li>
-        <b>Ace The Data Science Interview</b> by Kevin Huo, & Nick Singh ~ 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street
-    </li>
 </ul>
 
 View my [Reading Journal](https://github.com/vincentmacode/reading-journal-/blob/main/Reading-Journal.md)
