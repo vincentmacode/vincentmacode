@@ -51,7 +51,7 @@
 | <br>**[Calculator Extension](https://github.com/vincentmacode/calculator-extension)** <img src="https://img.icons8.com/?size=96&id=kI89qXDv4f5O&format=png" alt="Icon" width="18" /><br><br>Peppy Google Chrome extension to boost productivity<br><br><sub>Tech Stack - HTML, CSS, JavaScript</sub><br><br> | <br>**[Blackjack Game](https://blackjack-rm.netlify.app/)** <img src="https://img.icons8.com/?size=120&id=4564MUHGIIbe&format=png" alt="Cude Icon" width="18" /><br><br>A sleek Blackjack Game to cure boredom<br><br><sub>Tech Stack - HTML, CSS, JavaScript</sub><br><br> |
 | | |
 
-## 🚀 Portfolio
+## 🚀 Website
 <p align="left">
   <a href="https://vincentmadev.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
