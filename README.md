@@ -92,6 +92,9 @@ Feel free to reach out if you want to collaborate on a project, talk about web &
     <li>
         <b>The Middle Cyclist</b> by Phil Cavell ~ The Road Map For The +40 Rider Who Wants to Train Hard, Ride Fast and Stay Healthy 
     </li>
+    <li>
+        <b>Loneliness</b> by John T. Cacioppo & William Patrick ~ Human Nature and the Need for Social Connection
+    </li>
 </ul>
 
 View my [Reading Journal](https://github.com/vincentmacode/reading-journal-/blob/main/Reading-Journal.md)
