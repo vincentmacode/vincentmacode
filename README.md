@@ -1,4 +1,4 @@
-## Hello, World! I'm Vincent 👋
+## Hello, I'm Vincent! 👋
 🧠 What I build: iOS applications, web apps & fun web projects
 
 🎨 What I care about: Accessibility, performance & fun
