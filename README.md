@@ -93,7 +93,7 @@ Feel free to reach out if you want to collaborate on a project, talk about web &
         <b>The Comfort Zone</b> by Kristen Butler, Founder of Power of Positivity ~ Create a Life You Really Love with Less Stress and More Flow 
     </li>
     <li>
-        <b>The Middle Cyclist</b> by Phil Cavell ~ The Road Map For The +40 Rider Who Wants to Train Hard, Ride Fast and Stay Healthy 
+        <!-- <b>The Middle Cyclist</b> by Phil Cavell ~ The Road Map For The +40 Rider Who Wants to Train Hard, Ride Fast and Stay Healthy  -->
     </li>
     <li>
         <b>Loneliness</b> by John T. Cacioppo & William Patrick ~ Human Nature and the Need for Social Connection
@@ -102,18 +102,3 @@ Feel free to reach out if you want to collaborate on a project, talk about web &
 
 View my [Reading Journal](https://github.com/vincentmacode/reading-journal-/blob/main/Reading-Journal.md)
 
-
-<!--
-**vincentmacode/vincentmacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
