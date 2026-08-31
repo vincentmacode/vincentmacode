@@ -90,13 +90,13 @@ Feel free to reach out if you want to collaborate on a project, talk about web &
 <b>Currently reading:</b>
 <ul>
     <li>
+        <b>The Grain Brain Whole Life Plan</b> by David Perlmutter, MD with Kristin Loberg ~ Boost Brain Performance, Lose Weight, and Achieve Opticam Health 
+    </li>
+    <li>
+        <b>Whole</b> by T. Colin Campbell, PhD with Howard Jacobson, PhD ~ Rethinking the Science of Nutrition
+    </li>
+    <li>
         <b>Clean Code Cookbook</b> by Maximiliano Contieri ~ Recipes to Improve the Design and Quality of your Code
-    </li>
-    <li>
-        <b>The Comfort Zone</b> by Kristen Butler, Founder of Power of Positivity ~ Create a Life You Really Love with Less Stress and More Flow 
-    </li>
-    <li>
-        <b>Loneliness</b> by John T. Cacioppo & William Patrick ~ Human Nature and the Need for Social Connection
     </li>
 </ul>
 
